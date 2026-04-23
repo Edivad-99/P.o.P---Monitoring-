@@ -1,6 +1,6 @@
 # P.o.P---Monitoring-
 
-# Conexo - P.o.P. Monitoring System 🚀
+# Conexo - P.o.P. Monitoring System 
 
 [cite_start]**Conexo** è una soluzione integrata sviluppata durante il **DT Lab Networking Bootcamp** per risolvere il problema della mancanza di inventari strutturati nei Point of Presence (P.o.P.) aziendali[cite: 1, 4, 22]. [cite_start]Il sistema permette di tracciare l'inserimento, la rimozione e la sostituzione dei dispositivi di rete in tempo reale, evitando la perdita di asset fondamentali[cite: 24, 45, 47].
 
